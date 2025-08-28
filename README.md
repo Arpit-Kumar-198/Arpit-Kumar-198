@@ -48,6 +48,7 @@
 ### 🛠️ Daily-Toolkit
 - <b>Tech:</b> Vanilla JavaScript, HTML, CSS
 - <b>Description:</b> A fully responsive, all-in-one utility web app bringing together multiple practical tools: calculator, notes, expense tracker, weather dashboard, and more.
+- 🔗 [**Try It Live**](https://arpit-kumar-198.github.io/Daily-Toolkit/)
 
 ---
 
