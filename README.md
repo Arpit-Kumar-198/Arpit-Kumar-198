@@ -49,10 +49,6 @@
 - <b>Description:</b> A fully responsive, all-in-one utility web app bringing together multiple practical tools: calculator, notes, expense tracker, weather dashboard, and more.
 - 🔗 [**Try It Live**](https://arpit-kumar-198.github.io/Daily-Toolkit/)
 
-### 🤖 DSA Instructor Chatbot
-- <b>Tech:</b> HTML, CSS, Vanilla JavaScript, Gemini API
-- <b>Description:</b> An AI-powered chatbot that acts as a DSA Instructor. Provides clear explanations, beginner-friendly examples, and has a clean, responsive chat UI with animations.
-- 🔗 [**Try It Live**](https://arpit-kumar-198.github.io/GEN-AI-With-JS/Day-2/DSA_Instructor.html)
 
 ---
 
