@@ -54,7 +54,7 @@
 
 ## 🤝 Let's Connect!
 
-- <b>LinkedIn:</b> [Arpit Kumar](https://www.linkedin.com/in/arpit-kumar-569361296/)
+- <b>LinkedIn:</b> [Arpit Kumar](https://www.linkedin.com/in/arpit-fullstack-dev/)
 - <b>E-mail:</b> arpitkumar19842@gmail.com
 
 ---
