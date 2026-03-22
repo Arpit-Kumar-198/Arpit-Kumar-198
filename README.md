@@ -36,7 +36,7 @@
 </p>
 
 ### <ins>Other Skills:</ins>
-- <b>Algorithms & Data Structures:</b> Searching, Sorting, Two Pointer, Binary Search, Sliding Window, Linked List, Recursion, C++ STL, Stack, Queue, OPPs, Trees, Maps, Heaps, Greedy etc.
+- <b>Algorithms & Data Structures:</b> Searching, Sorting, Two Pointer, Binary Search, Prefix Sum, Sliding Window, Linked List, Recursion, Backtracking, C++ STL, Stack, Queue, OPPs, Trees, Maps, Heaps, Greedy, DP, Graphs etc.
 - <b>Object-Oriented Programming (OOP) in C++ and Java</b>
 - <b>CS Fundamentals & Frontend Development</b>
 
