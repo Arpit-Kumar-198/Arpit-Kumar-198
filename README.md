@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/C-blue.svg?logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-blue.svg?logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-blue.svg?logo=mysql&logoColor=white" alt="SQL">
 </p>
 
 ### <ins>Technologies & Tools:</ins>
