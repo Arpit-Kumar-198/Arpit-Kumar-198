@@ -7,12 +7,13 @@
 
 ## 📝 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering (5th Semester)**
-- 💻 Passionate about <b>Data Structures & Algorithms</b>, Full-Stack Development (MERN), and <b>GEN-AI</b>
-- 🚀 <b>LeetCode:</b> 200+ Problems | Active on Leetcode
-- 🤖 Working on an <b>Data Structures & Algorithms</b> and <b>Full Stack Development</b>
-- 🏆 Knight-level goal in LeetCode Weekly Contests
-- 📚 Learning <b>GEN-AI (YouTube) & MERN Stack</b> while solving <b>300+ DSA problems in 2025</b>
+- 🎓 **B.Tech in Computer Science & Engineering (6th Semester)**
+- 💻 Passionate about **Data Structures & Algorithms**, **Full-Stack Development (MERN)**, and **GenAI**
+- 🚀 **LeetCode:** Knight (1600+ rating) | 300+ problems solved
+- ⭐ **CodeChef:** 2⭐ Coder (1500+ rating)
+- 🤖 Currently building projects in **Full-Stack Development** and exploring **GenAI**
+- 🏆 Actively participating in **LeetCode & CodeChef Weekly Contests**, focusing on improving problem-solving skills
+- 📚 Continuously learning **MERN Stack, GenAI, and CS Fundamentals** while strengthening **DSA**
 
 ---
 
