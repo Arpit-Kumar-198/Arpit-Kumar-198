@@ -50,6 +50,10 @@
 - <b>Description:</b> A fully responsive, all-in-one utility web app bringing together multiple practical tools: calculator, notes, expense tracker, weather dashboard, and more.
 - 🔗 [**Try It Live**](https://arpit-kumar-198.github.io/Daily-Toolkit/)
 
+### 🔐 Text Encryption Tool
+- <b>Tech:</b> React, JavaScript, HTML, CSS
+- <b>Description:</b> A simple and modern React-based web application to encrypt and decrypt text using basic encoding techniques.
+- 🔗 [**Try It Live**](https://text-encryption-tool-dk07oxul4-arpit-kumars-projects-75e7cb12.vercel.app/)
 
 ---
 
