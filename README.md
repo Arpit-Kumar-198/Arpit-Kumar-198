@@ -45,11 +45,22 @@
 
 ## 📚 Projects
 
-### 🛠️ Daily-Toolkit
-- <b>Tech:</b> Vanilla JavaScript, HTML, CSS
-- <b>Description:</b> A fully responsive, all-in-one utility web app bringing together multiple practical tools: calculator, notes, expense tracker, weather dashboard, and more.
-- 🔗 [**Try It Live**](https://arpit-kumar-198.github.io/Daily-Toolkit/)
+### 🛠️ Daily Toolkit
+
+* <b>Tech:</b> HTML, CSS, JavaScript
+* <b>Description:</b> A fully responsive productivity web application that combines multiple everyday tools into a single platform, including a calculator, notes manager, expense tracker, weather dashboard, and other useful utilities.
+* ✨ <b>Features:</b> Multiple integrated tools, responsive design, local data storage, weather integration, and clean user-friendly interface.
+* 🔗 <b>Live Demo:</b> https://arpit-kumar-198.github.io/Daily-Toolkit/
+* 💻 <b>Source Code:</b> https://github.com/Arpit-Kumar-198/Daily-Toolkit
   
+
+### 🎁 GitHub Wrapped
+
+* <b>Tech:</b> React, Vite, JavaScript, Tailwind CSS, Chart.js, Framer Motion, GitHub REST API
+* <b>Description:</b> A Spotify Wrapped-inspired web application that generates a personalized GitHub year-in-review. Users can enter any GitHub username to view coding activity, language statistics, contribution insights, developer personality, and profile comparisons through an interactive and animated experience.
+* ✨ Features: GitHub analytics, activity insights, developer personality types, profile comparison, PNG export, and social sharing.
+* 🔗 <b>Live Demo:</b> https://github-wrapped-arpit.vercel.app
+* 💻 <b>Source Code:</b> https://github.com/Arpit-Kumar-198/github-wrapped
 
 ---
 
