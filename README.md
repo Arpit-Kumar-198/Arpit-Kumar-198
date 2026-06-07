@@ -59,7 +59,7 @@
 * <b>Tech:</b> React, Vite, JavaScript, Tailwind CSS, Chart.js, Framer Motion, GitHub REST API
 * <b>Description:</b> A Spotify Wrapped-inspired web application that generates a personalized GitHub year-in-review. Users can enter any GitHub username to view coding activity, language statistics, contribution insights, developer personality, and profile comparisons through an interactive and animated experience.
 * ✨ Features: GitHub analytics, activity insights, developer personality types, profile comparison, PNG export, and social sharing.
-* 🔗 <b>Live Demo:</b> https://github-wrapped-arpit.vercel.app
+* 🔗 <b>Live Demo:</b> [https://github-wrapped-arpit.vercel.app](https://github-wrapped-lilac.vercel.app/)
 * 💻 <b>Source Code:</b> https://github.com/Arpit-Kumar-198/github-wrapped
 
 ---
