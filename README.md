@@ -62,6 +62,13 @@
 * 🔗 <b>Live Demo:</b> [https://github-wrapped-arpit.vercel.app](https://github-wrapped-lilac.vercel.app/)
 * 💻 <b>Source Code:</b> https://github.com/Arpit-Kumar-198/github-wrapped
 
+### 🖥️ SchedCore – CPU Scheduling Simulator
+
+* <b>Tech:</b> C++17, STL, CMake
+* <b>Description:</b> A terminal-based CPU scheduling simulator built with modern C++17 that implements six classic scheduling algorithms. It calculates key scheduling metrics, generates a text-based Gantt chart, and provides an interactive way to understand CPU scheduling concepts.
+* <b>✨ Features:</b> FCFS, SJF, SRTF, Priority, Preemptive Priority, Round Robin, process metrics (CT, TAT, WT, RT), Gantt chart, input validation, unit tests, and CMake support.
+* <b>💻 Source Code:</b> https://github.com/Arpit-Kumar-198/SchedCore
+
 ---
 
 ## 🤝 Let's Connect!
