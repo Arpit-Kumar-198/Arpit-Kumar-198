@@ -49,6 +49,24 @@
 
 ---
 
+## 🧠 Competitive Programming
+
+<p align="start"> 
+  <a href="https://leetcode.com/u/Arpit_kumar198/"> 
+    <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?logo=leetcode&logoColor=white" /> 
+  </a> 
+  <a href="https://www.codechef.com/users/binary_dreamer"> 
+    <img src="https://img.shields.io/badge/CodeChef-1500+-5B4638?logo=codechef&logoColor=white" /> 
+  </a> 
+</p>
+
+<p align="start">
+  🟠 <b>LeetCode:</b> 300+ Problems Solved <br>
+  🟤 <b>CodeChef:</b> 2⭐ Coder
+</p>
+
+---
+
 ## 📚 Projects
 
 ### 🖥️ SchedCore – CPU Scheduling Simulator
