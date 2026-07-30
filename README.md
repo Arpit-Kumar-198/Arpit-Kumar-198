@@ -7,7 +7,7 @@
 
 ## 📝 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering (6th Semester)**
+- 🎓 **B.Tech in Computer Science & Engineering**
 - 💻 Passionate about **Data Structures & Algorithms**, **Full-Stack Development (MERN)**, and **GenAI**
 - 🚀 **LeetCode:** Knight (1600+ rating) | 300+ problems solved
 - ⭐ **CodeChef:** 2⭐ Coder (1500+ rating)
@@ -29,38 +29,28 @@
 
 ### <ins>Technologies & Tools:</ins>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
 </p>
 
 ### <ins>Other Skills:</ins>
 - <b>Algorithms & Data Structures:</b> Searching, Sorting, Two Pointer, Binary Search, Prefix Sum, Sliding Window, Linked List, Recursion, Backtracking, C++ STL, Stack, Queue, OPPs, Trees, Maps, Heaps, Greedy, DP, Graphs etc.
-- <b>Object-Oriented Programming (OOP) in C++ and Java</b>
-- <b>CS Fundamentals & Frontend Development</b>
+- <b>Object-Oriented Programming (OOP) in C++</b>
+- <b>CS Fundamentals (DBMS, Operating Systems, Computer Networks) & MERN Stack Development</b>
 
 ---
 
 ## 📚 Projects
-
-### 🛠️ Daily Toolkit
-
-* <b>Tech:</b> HTML, CSS, JavaScript
-* <b>Description:</b> A fully responsive productivity web application that combines multiple everyday tools into a single platform, including a calculator, notes manager, expense tracker, weather dashboard, and other useful utilities.
-* ✨ <b>Features:</b> Multiple integrated tools, responsive design, local data storage, weather integration, and clean user-friendly interface.
-* 🔗 <b>Live Demo:</b> https://arpit-kumar-198.github.io/Daily-Toolkit/
-* 💻 <b>Source Code:</b> https://github.com/Arpit-Kumar-198/Daily-Toolkit
-  
-
-### 🎁 GitHub Wrapped
-
-* <b>Tech:</b> React, Vite, JavaScript, Tailwind CSS, Chart.js, Framer Motion, GitHub REST API
-* <b>Description:</b> A Spotify Wrapped-inspired web application that generates a personalized GitHub year-in-review. Users can enter any GitHub username to view coding activity, language statistics, contribution insights, developer personality, and profile comparisons through an interactive and animated experience.
-* ✨ Features: GitHub analytics, activity insights, developer personality types, profile comparison, PNG export, and social sharing.
-* 🔗 <b>Live Demo:</b> [https://github-wrapped-arpit.vercel.app](https://github-wrapped-lilac.vercel.app/)
-* 💻 <b>Source Code:</b> https://github.com/Arpit-Kumar-198/github-wrapped
 
 ### 🖥️ SchedCore – CPU Scheduling Simulator
 
