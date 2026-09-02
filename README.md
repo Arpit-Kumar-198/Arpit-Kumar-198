@@ -69,6 +69,17 @@
 
 ## 📚 Projects
 
+### 🌐 Arpit Kumar — Developer Portfolio
+
+* <b>Tech:</b> React, JavaScript, Tailwind CSS, React Icons
+* <b>Description:</b> A modern, responsive and minimal developer portfolio built with React and Tailwind CSS. It showcases my technical skills, projects, DSA journey, education, and professional background.
+* <b>✨ Features:</b> Responsive design, modern dark theme with gold accents, About section, skills showcase, project cards with GitHub and live demo links, DSA statistics, smooth navigation, and contact section.
+* <b>📂 Sections:</b> Home, About, Skills, Projects, DSA, and Contact
+* <b>🌐 Live Demo:</b> https://portfolio-roan-gamma-zhikiv13fd.vercel.app/
+* <b>💻 Source Code:</b> https://github.com/Arpit-Kumar-198/portfolio
+
+---
+
 ### 🖥️ SchedCore – CPU Scheduling Simulator
 
 * <b>Tech:</b> C++17, STL, CMake
