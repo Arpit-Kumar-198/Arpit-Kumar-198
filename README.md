@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Arpit Kumar.</h1>
 <p align="center">
-  <i>Aspiring Software Engineer | Competitive Programmer</i>
+  <i>Software Engineer | Full-Stack Developer | Competitive Programmer</i>
 </p>
 
 ---
@@ -11,15 +11,16 @@
 - 💻 Passionate about **Data Structures & Algorithms**, **Full-Stack Development (MERN)**, and **GenAI**
 - 🚀 **LeetCode:** Knight (1600+ rating) | 300+ problems solved
 - ⭐ **CodeChef:** 2⭐ Coder (1500+ rating)
-- 🤖 Currently building projects in **Full-Stack Development** and exploring **GenAI**
-- 🏆 Actively participating in **LeetCode & CodeChef Weekly Contests**, focusing on improving problem-solving skills
-- 📚 Continuously learning **MERN Stack, GenAI, and CS Fundamentals** while strengthening **DSA**
+- 🤖 Experienced in building full-stack web applications using the MERN stack
+- 📚 Continuously learning modern web technologies, GenAI, and Computer Science fundamentals
+- 🛠️ Interested in developing practical, scalable, and user-focused software solutions
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### <ins>Languages:</ins>
+
 <p>
   <img src="https://img.shields.io/badge/C-blue.svg?logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-blue.svg?logo=cplusplus&logoColor=white" alt="C++">
@@ -29,10 +30,12 @@
 </p>
 
 ### <ins>Technologies & Tools:</ins>
+
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -43,49 +46,56 @@
 </p>
 
 ### <ins>Other Skills:</ins>
-- <b>Algorithms & Data Structures:</b> Searching, Sorting, Two Pointer, Binary Search, Prefix Sum, Sliding Window, Linked List, Recursion, Backtracking, C++ STL, Stack, Queue, OPPs, Trees, Maps, Heaps, Greedy, DP, Graphs etc.
+
+- <b>Algorithms & Data Structures:</b> Searching, Sorting, Two Pointer, Binary Search, Prefix Sum, Sliding Window, Linked List, Recursion, Backtracking, C++ STL, Stack, Queue, OOP, Trees, Maps, Heaps, Greedy, DP, Graphs, etc.
 - <b>Object-Oriented Programming (OOP) in C++</b>
-- <b>CS Fundamentals (DBMS, Operating Systems, Computer Networks) & MERN Stack Development</b>
+- <b>CS Fundamentals:</b> DBMS, Operating Systems, Computer Networks
+- <b>Web Development:</b> MERN Stack Development
 
 ---
 
 ## 🧠 Competitive Programming
 
-<p align="start"> 
-  <a href="https://leetcode.com/u/Arpit_kumar198/"> 
-    <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?logo=leetcode&logoColor=white" /> 
-  </a> 
-  <a href="https://www.codechef.com/users/binary_dreamer"> 
-    <img src="https://img.shields.io/badge/CodeChef-1500+-5B4638?logo=codechef&logoColor=white" /> 
-  </a> 
+<p align="start">
+  <a href="https://leetcode.com/u/Arpit_kumar198/">
+    <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://www.codechef.com/users/binary_dreamer">
+    <img src="https://img.shields.io/badge/CodeChef-1500+-5B4638?logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+  <a href="https://codeforces.com/profile/Arpit_Kumar_05">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 </p>
 
 <p align="start">
   🟠 <b>LeetCode:</b> 300+ Problems Solved <br>
-  🟤 <b>CodeChef:</b> 2⭐ Coder
+  🟤 <b>CodeChef:</b> 2⭐ Coder <br>
+  🔵 <b>Codeforces:</b> Competitive Programming Profile
 </p>
 
 ---
 
-## 📚 Projects
+## 🌐 My Portfolio
 
-### 🌐 Arpit Kumar — Developer Portfolio
+<p align="start">
+  Explore my portfolio to learn more about my skills, projects, and development journey.
+</p>
 
-* <b>Tech:</b> React, JavaScript, Tailwind CSS, React Icons
-* <b>Description:</b> A modern, responsive and minimal developer portfolio built with React and Tailwind CSS. It showcases my technical skills, projects, DSA journey, education, and professional background.
-* <b>✨ Features:</b> Responsive design, modern dark theme with gold accents, About section, skills showcase, project cards with GitHub and live demo links, DSA statistics, smooth navigation, and contact section.
-* <b>📂 Sections:</b> Home, About, Skills, Projects, DSA, and Contact
-* <b>🌐 Live Demo:</b> https://portfolio-roan-gamma-zhikiv13fd.vercel.app/
-* <b>💻 Source Code:</b> https://github.com/Arpit-Kumar-198/portfolio
+<p align="start">
+  🔗 <b>Visit My Portfolio:</b>
+  <a href="https://portfolio-roan-gamma-zhikiv13fd.vercel.app/">
+    Click Here
+  </a>
+</p>
 
 ---
 
 ## 🤝 Let's Connect!
 
-- <b>LinkedIn:</b> [Arpit Kumar](https://www.linkedin.com/in/arpit-fullstack-dev/)
-- <b>E-mail:</b> arpitkumar19842@gmail.com
+- <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/arpit-fullstack-dev/">Arpit Kumar</a>
+- <b>Email:</b> arpitkumar19842@gmail.com
 
 ---
 
-⭐ If you like my work, feel free to star some repositories and connect!
-
+⭐ Feel free to explore my repositories and connect with me!
