@@ -8,12 +8,14 @@
 ## 📝 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering**
-- 💻 Passionate about **Data Structures & Algorithms**, **Full-Stack Development (MERN)**, and **GenAI**
-- 🚀 **LeetCode:** Knight (1600+ rating) | 300+ problems solved
+- 💻 **Full-Stack Developer** passionate about building scalable web applications using the MERN stack
+- 🧠 Strong foundation in **Data Structures & Algorithms** and **Core CS Fundamentals**
+- 🟠 **LeetCode:** Knight (1600+ rating) | 300+ Problems Solved
 - ⭐ **CodeChef:** 2⭐ Coder (1500+ rating)
-- 🤖 Experienced in building full-stack web applications using the MERN stack
-- 📚 Continuously learning modern web technologies, GenAI, and Computer Science fundamentals
-- 🛠️ Interested in developing practical, scalable, and user-focused software solutions
+- 🔵 **Codeforces:** Newbie | Exploring Competitive Programming
+- 🏗️ Currently learning **System Design** and exploring **Generative AI**
+- 🤖 Interested in building **AI-powered Full-Stack Applications** by integrating GenAI into modern web technologies
+- 🚀 Continuously learning, building, and improving as a Software Engineer
 
 ---
 
@@ -71,7 +73,7 @@
 <p align="start">
   🟠 <b>LeetCode:</b> 300+ Problems Solved <br>
   🟤 <b>CodeChef:</b> 2⭐ Coder <br>
-  🔵 <b>Codeforces:</b> Competitive Programming Profile
+  🔵 <b>Codeforces:</b> Newbie
 </p>
 
 ---
